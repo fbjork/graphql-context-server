@@ -1,0 +1,10 @@
+id = "graphql-context-server"
+name = "GraphQL Context Server"
+description = "Model Context Server for GraphQL"
+version = "0.0.1"
+schema_version = 1
+authors = ["Fredrik Björk <fredrik.bjork@gmail.com>"]
+repository = "https://github.com/fbjork/graphql-context-server"
+
+[context_servers.graphql-context-server]
+name = "GraphQL Context Server"
